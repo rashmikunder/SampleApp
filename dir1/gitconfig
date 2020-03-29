@@ -1,0 +1,12 @@
+[user]
+	name = mahesh
+	email = maheshakude12@gmail.com
+[credential]
+	helper = manager
+[core]
+	safecrlf = false
+[http]
+	proxy = http://A708975:Atos%251234@10.97.2.59:84
+[https]
+	proxy = http://A708975:Atos%251234@10.97.2.59:84
+
